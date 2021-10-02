@@ -10,3 +10,7 @@ MOM W37
 MOM W38
 <br>
 https://cukilen.github.io/infovis2021/mom2021w38.html
+<br><br><br>
+TP: CHACO PASO 2021
+<br>
+https://rociovanesa.github.io/Inforvis2021/PASOCHACO2021.html
