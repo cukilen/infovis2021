@@ -6,6 +6,7 @@ https://cukilen.github.io/infovis2021/mom2021w36.html
 <br><br>
 MOM W37
 <br>
+https://cukilen.github.io/infovis2021/mom2021w37.html
 <br><br>
 MOM W38
 <br>
